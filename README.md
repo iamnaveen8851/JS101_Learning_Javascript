@@ -4,6 +4,3 @@ In this repository I'm gonna do some clone the repository on local directory and
 Firstly, I'm pushing the Day 1 Introduction to Javascript Problems from first location in the repo.
 
 pulling and pushing the repo again from second location.
-
-
-3rd time pull and push from second location.
