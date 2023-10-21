@@ -6,3 +6,6 @@ Firstly, I'm pushing the Day 1 Introduction to Javascript Problems from first lo
 pulling and pushing the repo again from second location.
 
 3rd time pull and push from second location.
+
+
+2nd time pull and push from first location.
